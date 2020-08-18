@@ -5,3 +5,4 @@ from mymatome.mycopy import *
 from mymatome.mymath import *
 from mymatome.heap import *
 from mymatome.fileRW import *
+from mymatome.mytime import *
