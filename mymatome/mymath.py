@@ -15,3 +15,9 @@ def rad(d):
 
 def deg(d):
     return math.degrees(d)
+
+def atan3(x1,y1,x2,y2): #1->2の角度
+    return marh.atan2(y2-y1,x2-x1)
+
+def atan3A(a1,a2): #1->2の角度
+    return marh.atan2(a2[1]-a1[1],a2[0]-a1[0])
