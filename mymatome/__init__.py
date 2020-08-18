@@ -4,3 +4,4 @@ from mymatome.rand import *
 from mymatome.mycopy import *
 from mymatome.mymath import *
 from mymatome.heap import *
+from mymatome.fileRW import *
